@@ -1,0 +1,1 @@
+include ':app', ':shopping', ':homepage', ':baselibrary', ':router-annotion', ':router_compile'
